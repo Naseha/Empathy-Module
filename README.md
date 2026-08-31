@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22213030.svg)](https://doi.org/10.5281/zenodo.22213030)
 
-Closed-form Empathy Score for fictional and agentic characters in long-form narrative.
+Closed-form Empathy Score for fictional and agentic characters in long-form narrative, expanded to users to enable match of consistent empathic responses by AI partners.
 
 **Skill by Naseha.**  
 Author: Naseha Sameen (NasLab).  
@@ -13,7 +13,6 @@ E(t) = tanh(αC(t) + βA(t) + γR(t)) · Φ(Env, t) − η(t)
 ```
 
 C, A, R are standing. Φ is the scene. η is noise — secret, split, lie.  
-**Intent is out of scope.** The score does not explain why a door stays shut. It says how a figure is standing when the door is shut.
 
 Cite this repository / this DOI if you cite the formula.
 
