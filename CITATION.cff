@@ -1,10 +1,9 @@
 cff-version: 1.2.0
-title: "Resilient-Narrative-Core: Empathy Score and long-form narrative runtime"
+title: "Empathy Module"
 message: "If you use this software or the Empathy Score, please cite it."
 type: software
 authors:
-  - family-names: Sameen
-    given-names: Naseha
+  - given-names: Naseha Sameen
     affiliation: NasLab
     orcid: ""
 abstract: >
@@ -18,7 +17,7 @@ keywords:
   - character consistency
 license: MIT
 copyright: "Copyright © 2026 Naseha Sameen"
-repository-code: "https://github.com/Naseha/Resilient-Narrative-Core"
+repository-code: "https://github.com/Naseha/Empathy-Module"
 notes: >
   The closed-form Empathy Score and the C–A–R–Φ–η decomposition
   were derived in collaboration with Grok (xAI), operating in
@@ -26,5 +25,5 @@ notes: >
   Early element brainstorming included Gemini (Google) and Qwen.
   Collaboration is acknowledged. Copyright remains with
   Naseha Sameen.
-version: "4.0.0"
+version: "v1.0.0-formula"
 date-released: "2026-08-31"
