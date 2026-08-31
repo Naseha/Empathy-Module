@@ -5,7 +5,7 @@ type: software
 authors:
   - given-names: Naseha Sameen
     affiliation: NasLab
-    orcid: ""
+    orcid: "0009-0002-2170-7710"
 abstract: >
   Closed-form Empathy Score E(t) = tanh(αC + βA + γR) · Φ − η
   for fictional and agentic characters in long-form co-authored
