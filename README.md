@@ -59,13 +59,17 @@ A drop of 1.0 after resistance, with no story cause, is a fail — not a mood.
 
 ---
 
-## Lineage
+## Lineage (one formula, three rooms)
 
-| Repo | Job | DOI |
-| --- | --- | --- |
-| [Memory-Context](https://github.com/Naseha/Memory-Context) | Origin case study. Memory protect + first *user-match* sketch. Historical. | [10.5281/zenodo.22213221](https://doi.org/10.5281/zenodo.22213221) |
-| [Resilient-Narrative-Core](https://github.com/Naseha/Resilient-Narrative-Core) | Living runtime that *uses* this score on characters. | (release pending) |
-| **This repo** | Formula + future paper + future Python. | [10.5281/zenodo.22213030](https://doi.org/10.5281/zenodo.22213030) |
+The equation was written first. The rooms came after. The letters did not change.
+
+| Order | Room | What happened | DOI |
+| --- | --- | --- | --- |
+| 1 | [Empathy-Module](https://github.com/Naseha/Empathy-Module) | Formula freeze. C, A, R, Φ, η. This tag. | [10.5281/zenodo.22213030](https://doi.org/10.5281/zenodo.22213030) |
+| 2 | [Memory-Context](https://github.com/Naseha/Memory-Context) | Small-scale run. Memory protect + first user-match sketch on the same instrument. | [10.5281/zenodo.22213221](https://doi.org/10.5281/zenodo.22213221) |
+| 3 | [Resilient-Narrative-Core](https://github.com/Naseha/Resilient-Narrative-Core) | Same instrument on narrative agents. 749-page field. | [10.5281/zenodo.22223882](https://doi.org/10.5281/zenodo.22223882) |
+
+Proof of concept, then evolution of *use*. Not a second formula.
 
 ---
 
