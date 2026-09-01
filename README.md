@@ -15,7 +15,8 @@ E(t) = tanh(αC(t) + βA(t) + γR(t)) · Φ(Env, t) − η(t)
 
 C, A, R are standing. Φ is the scene. η is noise — secret, split, lie.  
 
-Cite this repository / this DOI if you cite the formula.
+Cite this repository / this DOI if you cite the formula. Formula freeze.  
+[10.5281/zenodo.22213030](https://doi.org/10.5281/zenodo.22213030)
 
 ---
 
