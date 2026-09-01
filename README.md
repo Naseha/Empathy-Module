@@ -12,11 +12,10 @@ ORCID: [0009-0002-2170-7710](https://orcid.org/0009-0002-2170-7710)
 ```
 E(t) = tanh(αC(t) + βA(t) + γR(t)) · Φ(Env, t) − η(t)
 ```
-
 C, A, R are standing. Φ is the scene. η is noise — secret, split, lie.  
+Formula freeze [10.5281/zenodo.22213030](https://doi.org/10.5281/zenodo.22213030)
 
-Cite this repository / this DOI if you cite the formula. Formula freeze.  
-[10.5281/zenodo.22213030](https://doi.org/10.5281/zenodo.22213030)
+Cite this repository / this DOI if you cite the formula. 
 
 ---
 
