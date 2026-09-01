@@ -68,7 +68,10 @@ A drop of 1.0 after resistance, with no story cause, is a fail — not a mood.
 ---
 
 ## Cite
-
 See `CITATION.cff`. After this DOI, cite the Zenodo record rather than a floating skill file.
-
 Naseha Protocol. Qasif mode of storytelling.
+
+
+## License
+This project is licensed under the terms described in the LICENSE file.
+
