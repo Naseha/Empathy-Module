@@ -1,6 +1,7 @@
 # Empathy Module
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22213030.svg)](https://doi.org/10.5281/zenodo.22213030)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22213030-blue.svg)](https://doi.org/10.5281/zenodo.22213030)
+
 
 Closed-form Empathy Score for fictional and agentic characters in long-form narrative, expanded to users to enable match of consistent empathic responses by AI partners.
 
